@@ -1,0 +1,6 @@
+---
+- !ruby/object:Car
+  plate: 25 ac 88
+  model: Mercedes
+  name: Melisa
+  surname: Bayramli
